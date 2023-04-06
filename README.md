@@ -1,3 +1,5 @@
+Free template for documenting your projects.
+Do not forget Donate!
 
 ## Created By:
 
