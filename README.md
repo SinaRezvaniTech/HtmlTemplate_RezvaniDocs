@@ -3,7 +3,7 @@ Do not forget Donate!
 
 ## Created By:
 
-<a href="https://github.com/novinflow">NovinFlow</a>
+<a href="https://github.com/novinflow">SinaRezvani</a>
 
 ## Donations & Support
 
