@@ -24,7 +24,7 @@ a:hover, a:active {
 }
 
 /*=== Side Navigation ===*/
-.novinflow-navigation .nav .nav .nav-item .nav-link.active:after, .novinflow-navigation.docs-navigation-dark .nav .nav .nav-item .nav-link.active:after {
+.rezvani-navigation .nav .nav .nav-item .nav-link.active:after, .rezvani-navigation.docs-navigation-dark .nav .nav .nav-item .nav-link.active:after {
   border-color: #007bff;
 }
 
